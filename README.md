@@ -101,10 +101,6 @@ Podemos mapear los riesgos contra estándares como:
 ✅ Evaluación de Controles
 
 
-<img width="637" height="145" alt="image" src="https://github.com/user-attachments/assets/9f6b0546-592e-447d-ba08-3956653d2a8e" />
-
-
-
 🛡️ Checklist de Cumplimiento
 
 
