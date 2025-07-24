@@ -85,13 +85,84 @@ Podemos mapear los riesgos contra estándares como:
 
 <img width="1384" height="169" alt="image" src="https://github.com/user-attachments/assets/f159e761-ff0a-406d-993d-dc971308b79e" />
 
+
 🖥️ Controles Técnicos
 
 <img width="1449" height="193" alt="image" src="https://github.com/user-attachments/assets/baeacc11-79e4-4adc-b6aa-1ed4ef2f5218" />
+
 
 🏠 Controles Físicos / Operacionales
 
 <img width="1482" height="97" alt="image" src="https://github.com/user-attachments/assets/d808363f-a2fe-4daf-99ca-8afab9a83e87" />
 
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+✅ Evaluación de Controles
+
+
+<img width="637" height="145" alt="image" src="https://github.com/user-attachments/assets/9f6b0546-592e-447d-ba08-3956653d2a8e" />
+
+
+
+🛡️ Checklist de Cumplimiento
+
+
+<img width="637" height="481" alt="image" src="https://github.com/user-attachments/assets/a1501d7f-c73e-43d9-b661-05ab6bf8130e" />
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+📌 Recomendaciones para IT 
+
+✅ Implementar controles de acceso basados en mínimo privilegio y separación de funciones para limitar riesgos internos.
+
+✅ Establecer planes de recuperación ante desastres y políticas de respaldo automatizadas para garantizar continuidad de negocio.
+
+✅ Aplicar cifrado en información de tarjetas y datos sensibles para cumplir con PCI DSS y GDPR.
+
+✅ Revisar y fortalecer la política de contraseñas con una solución centralizada de gestión.
+
+✅ Clasificar e inventariar activos y datos para alinearse con GDPR y SOC.
+
+✅ Implementar IDS/IPS para detectar y mitigar tráfico sospechoso.
+
+✅ Establecer procesos de mantenimiento para sistemas legados con cronograma definido y documentación de intervención.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+Informe Técnico: Evaluación de Controles y Cumplimiento – Botium Toys
+
+
+1. Introducción
+   
+Este informe presenta una evaluación detallada del estado actual de los controles administrativos, técnicos y físicos de seguridad implementados por Botium Toys, así como su alineación con buenas prácticas de cumplimiento regulatorio (PCI DSS, GDPR, SOC 1/SOC 2). La auditoría se basa en el alcance y objetivos definidos, junto con el análisis de riesgos asociado a la infraestructura tecnológica y de negocio de la empresa.
+
+2. Resumen del Alcance y Objetivos
+   
+- Alcance: Evaluación integral del programa de seguridad de Botium Toys, que abarca activos físicos, red interna, sistemas, y políticas de cumplimiento.
+- Objetivos: Identificar activos existentes, verificar controles implementados, y recomendar mejoras para fortalecer la postura de seguridad.
+
+3. Evaluación de Controles
+
+<img width="1207" height="601" alt="image" src="https://github.com/user-attachments/assets/5d6decb5-c7f4-4d6d-b5c3-423fc051f0a0" />
+
+4. Evaluación de Cumplimiento		
+		
+<img width="1207" height="601" alt="image" src="https://github.com/user-attachments/assets/8f986b39-cd5c-430a-adc3-4023ac903c0d" />
+
+5. Recomendaciones
+   
+- Implementar controles de acceso por mínimo privilegio y separación de funciones para reducir riesgos internos.
+- Diseñar e integrar un plan de recuperación ante desastres, acompañado de copias de seguridad periódicas.
+- Adoptar cifrado para proteger transacciones de tarjetas y datos personales.
+- Fortalecer la política de contraseñas mediante la incorporación de una solución de gestión centralizada.
+- Clasificar e inventariar activos y datos, garantizando trazabilidad y cumplimiento regulatorio.
+- Instalar un IDS/IPS para detección proactiva de actividades sospechosas.
+- Estandarizar el mantenimiento de sistemas obsoletos bajo procedimientos definidos y documentados.
+
+6. Conclusión
+   
+Botium Toys presenta un entorno operativo con varios controles físicos y técnicos funcionales, sin embargo, existen deficiencias significativas en áreas críticas como la protección de datos sensibles, la gestión de accesos, y los planes de continuidad. Se recomienda priorizar la implementación de los controles identificados para reducir la exposición a riesgos, garantizar el cumplimiento normativo y fortalecer la seguridad general del ecosistema TI de la organización.
 
 
