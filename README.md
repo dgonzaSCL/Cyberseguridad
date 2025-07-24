@@ -21,12 +21,13 @@ Auditoria Interna para Botium Toys
 
 🚨 Riesgos identificados🚨
 
+
 🔓 Riesgos de seguridad de datos
 
 - Acceso libre de todos los empleados a datos internos y posibles datos sensibles (PII/SPII, tarjetas de crédito).
 - Sin cifrado para proteger información financiera de clientes.
 - Controles de acceso insuficientes, sin separación de funciones ni privilegios mínimos.
-- 
+  
 🔐 Riesgos tecnológicos
 - No hay sistema de detección de intrusos (IDS).
 - No hay plan de recuperación ante desastres ni copias de seguridad de datos críticos.
