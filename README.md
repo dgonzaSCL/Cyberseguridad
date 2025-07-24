@@ -63,9 +63,11 @@ Podemos mapear los riesgos contra estándares como:
 <img width="1383" height="169" alt="image" src="https://github.com/user-attachments/assets/836f5dee-5661-4148-8fcd-f35a11a79ff8" />
 
 
+
 🖥️ Controles Técnicos
 
 <img width="1416" height="193" alt="image" src="https://github.com/user-attachments/assets/4e54b77c-2036-4d40-8250-41f02bdb1072" />
+
 
 
 🏠 Controles Físicos/Operacionales
@@ -76,6 +78,7 @@ Podemos mapear los riesgos contra estándares como:
 
 
 📋 Checklist de Controles de Seguridad – Botium Toys
+
 
 
 🏢 Controles Administrativos / Gerenciales
