@@ -147,6 +147,8 @@ Este informe presenta una evaluación detallada del estado actual de los control
 		
 <img width="1207" height="601" alt="image" src="https://github.com/user-attachments/assets/8f986b39-cd5c-430a-adc3-4023ac903c0d" />
 
+
+
 5. Recomendaciones
    
 - Implementar controles de acceso por mínimo privilegio y separación de funciones para reducir riesgos internos.
