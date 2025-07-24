@@ -41,4 +41,54 @@ Auditoria Interna para Botium Toys
 - Políticas de privacidad internas y plan para notificar brechas a usuarios de la UE en 72 h.
 - Vigilancia física y sistemas contra incendios funcionales.
 
+----------------------------------------------------------------------------------------------------------------------------
+
+⚠️ Puntos de Control a Evaluar :
+
+Podemos mapear los riesgos contra estándares como:
+- 🔐 Confidencialidad
+- 🎯 Integridad
+- 📶 Disponibilidad
+- ⚖️ Cumplimiento normativo
+- 🧱 Gestión de activos y controles técnicos
+- 🔁 Políticas operativas y proceso
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+🧠 Controles de Seguridad – Botium Toys
+
+
+🏢 Controles Administrativos/Gerenciales
+
+<img width="1383" height="169" alt="image" src="https://github.com/user-attachments/assets/836f5dee-5661-4148-8fcd-f35a11a79ff8" />
+
+
+🖥️ Controles Técnicos
+
+<img width="1416" height="193" alt="image" src="https://github.com/user-attachments/assets/4e54b77c-2036-4d40-8250-41f02bdb1072" />
+
+
+🏠 Controles Físicos/Operacionales
+
+<img width="1504" height="193" alt="image" src="https://github.com/user-attachments/assets/00b96a4e-d2ce-4246-b728-3c09a32815d8" />
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+📋 Checklist de Controles de Seguridad – Botium Toys
+
+
+🏢 Controles Administrativos / Gerenciales
+
+<img width="1384" height="169" alt="image" src="https://github.com/user-attachments/assets/f159e761-ff0a-406d-993d-dc971308b79e" />
+
+🖥️ Controles Técnicos
+
+<img width="1449" height="193" alt="image" src="https://github.com/user-attachments/assets/baeacc11-79e4-4adc-b6aa-1ed4ef2f5218" />
+
+🏠 Controles Físicos / Operacionales
+
+<img width="1482" height="97" alt="image" src="https://github.com/user-attachments/assets/d808363f-a2fe-4daf-99ca-8afab9a83e87" />
+
+
 
