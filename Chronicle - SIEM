@@ -1,0 +1,32 @@
+Chronicle
+Chronicle es una herramienta SIEM de Google nativa de la nube que retiene, analiza y busca datos de registro para identificar posibles amenazas a la seguridad, riesgos y vulnerabilidades. Chronicle le permite recopilar y analizar datos de registro en función de:
+
+Un recurso específico
+
+Un nombre de dominio
+
+Un usuario
+
+Una dirección IP
+
+Chronicle proporciona múltiples tableros que ayudan a los analistas a Monitorear los registros de una organización, crear filtros y alertas, y rastrear nombres de dominio sospechosos.
+
+Revise los siguientes tableros de Chronicle y sus propósitos:
+
+Panel de estadísticas empresariales
+El panel de información estadística de la empresa destaca las alertas recientes. Identifica nombres de dominio sospechosos en los registros, conocidos como Indicadores de compromiso (IOC). Cada resultado se etiqueta con una puntuación de confianza para indicar la probabilidad de una amenaza. También proporciona un nivel de gravedad que indica la importancia de cada amenaza para la organización. Un analista de seguridad podría utilizar este panel para monitorizar los intentos de inicio de sesión o de acceso a los datos relacionados con un recurso crítico -como una aplicación o un sistema- desde ubicaciones o dispositivos poco habituales.
+
+Panel de ingestión dedatos y salud
+El panel de ingestión de datos y salud muestra el número de registros de eventos, las fuentes de registro y las tasas de éxito de los datos que se están procesando en Chronicle. Un analista de Seguridad podría utilizar este panel para asegurarse de que las fuentes de registro están correctamente configuradas y que los registros se reciben sin errores. Esto ayuda a garantizar que se abordan los problemas relacionados con los registros para que el equipo de Seguridad tenga acceso a los datos de registro que necesita.
+
+Cuadro de mando de coincidencias deCOI 
+El cuadro de mandos de coincidencias COI indica las principales amenazas, riesgos y vulnerabilidades para la organización. Los profesionales de la Seguridad utilizan este tablero para observar los nombres de dominio, las direcciones IP y los COI de los dispositivos a lo largo del tiempo con el fin de identificar tendencias. Esta información se utiliza después para dirigir el enfoque del equipo de seguridad hacia las amenazas de mayor prioridad. Por ejemplo, los analistas de Seguridad pueden utilizar este panel para buscar actividad adicional asociada a una alerta, como el inicio de sesión de un usuario sospechoso desde una ubicación geográfica inusual. 
+
+Panelprincipal 
+El cuadro de mandos principal muestra un resumen de alto nivel de la información relacionada con la actividad de ingestión de datos, alertas y eventos de la organización a lo largo del tiempo. Los profesionales de la Seguridad pueden utilizar este panel para acceder a una cronología de los eventos de seguridad -como un pico de intentos fallidos de inicio de sesión- para identificar las tendencias de las amenazas a través de las fuentes de registro, los dispositivos, las direcciones IP y las ubicaciones físicas.
+
+Panel dedetecciones de reglas
+El panel de detecciones de reglas proporciona estadísticas relacionadas con los incidentes de mayor incidencia, gravedad y detecciones a lo largo del tiempo. Los analistas de Seguridad pueden utilizar este tablero para acceder a una lista de todas las alertas activadas por una regla de detección específica, como una regla diseñada para alertar cada vez que un usuario abre un archivo adjunto malicioso conocido de un correo electrónico. A continuación, los analistas utilizan esas estadísticas para ayudar a gestionar los incidentes recurrentes y establecer tácticas de mitigación para reducir el nivel de riesgo de una organización.
+
+Panel general de iniciode sesión de usuario
+El cuadro de mandos general del inicio de sesión de los usuarios proporciona información sobre el comportamiento de acceso de los usuarios en toda la organización. Los analistas de Seguridad pueden utilizar este panel para acceder a una Lista de todos los eventos de inicio de sesión de los usuarios para identificar actividades inusuales de los usuarios, como el inicio de sesión de un usuario desde varias ubicaciones al mismo tiempo. A continuación, esta información se utiliza para ayudar a mitigar las amenazas, los riesgos y las vulnerabilidades de las cuentas de usuario y las aplicaciones de la organización.
